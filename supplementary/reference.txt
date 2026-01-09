@@ -1,0 +1,9 @@
+Data
+https://www.kaggle.com/datasets/mirbektoktogaraev/should-this-loan-be-approved-or-denied?resource=download
+https://www.kaggle.com/code/kevinm6720/sba-loan-approval-analysis/notebook#Data-Exploration
+
+Codes
+List of NACE codes
+https://ec.europa.eu/competition/mergers/cases/index/nace_all.html
+North American Industry Classification System
+https://www.census.gov/naics/?58967?yearbck=2022
